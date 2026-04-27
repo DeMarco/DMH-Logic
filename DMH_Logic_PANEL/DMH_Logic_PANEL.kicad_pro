@@ -475,7 +475,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DMH-Kosmo-5cm-PANEL.kicad_pro",
+    "filename": "DMH_Logic_PANEL.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -666,18 +666,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "DMH-Kosmo-5cm-PANEL.kicad_sch",
-        "name": "DMH-Kosmo-5cm-PANEL",
+        "filename": "DMH_Logic_PANEL.kicad_sch",
+        "name": "DMH_Logic_PANEL",
         "uuid": "a552705f-a9fe-462e-9913-5cfcc08b233c"
       }
     ],
-    "used_designators": "",
+    "used_designators": "H5-31",
     "variants": []
   },
   "sheets": [
     [
       "a552705f-a9fe-462e-9913-5cfcc08b233c",
-      "DMH-Kosmo-5cm-PANEL"
+      "DMH_Logic_PANEL"
     ]
   ],
   "text_variables": {},
